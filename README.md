@@ -1,5 +1,5 @@
 
-# Stock Price Preduction Web App
+# Stock Price Prediction Web App
 
 In this Stock Price Preduction Web App is Bulit Using Python and Frame works such as streamlit, yfinace, pandas
 
